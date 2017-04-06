@@ -10,12 +10,12 @@ class User
 private:
 	int sno;
 public:
-	//方案一
+	//Plan one
 	int get_sno();
 	void set_sno(int s);
 	void show();
 
-	//方案二
+	//Plan two
 	/*int get_sno()
 	{
 		return sno;

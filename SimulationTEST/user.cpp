@@ -3,7 +3,7 @@
 #include "stdafx.h"
 using namespace std;
 
-//·½°¸Ò»
+//Plan one
 int User::get_sno()
 {
 	return sno;
